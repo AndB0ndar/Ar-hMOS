@@ -1,0 +1,23 @@
+Script started on 2022-09-24 18:35:01+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="32"]
+]0;root@bondar-x521eq-s533eq: /home/andre/Programming/ArchMOC/showroot@bondar-x521eq-s533eq:/home/andre/Programming/ArchMOC/show# ls
+1.txt      2.txt  ab2ra.txt  [0m[01;31mfl.tar[0m      [01;31mfl.tar.gz[0m  [01;34mtest1[0m
+2abra.txt  3.txt  abra2.txt  [01;31mfl.tar.bz2[0m  [01;34mtest0[0m
+]0;root@bondar-x521eq-s533eq: /home/andre/Programming/ArchMOC/showroot@bondar-x521eq-s533eq:/home/andre/Programming/ArchMOC/show# cat q[K1.txt 
+]0;root@bondar-x521eq-s533eq: /home/andre/Programming/ArchMOC/showroot@bondar-x521eq-s533eq:/home/andre/Programming/ArchMOC/show# cat 1.txt [K[K[K[K[K[K3.txt [K[K[K[K[K[K2
+2abra.txt  2.txt      
+]0;root@bondar-x521eq-s533eq: /home/andre/Programming/ArchMOC/showroot@bondar-x521eq-s533eq:/home/andre/Programming/ArchMOC/show# cat 2
+2abra.txt  2.txt      
+]0;root@bondar-x521eq-s533eq: /home/andre/Programming/ArchMOC/showroot@bondar-x521eq-s533eq:/home/andre/Programming/ArchMOC/show# cat 2.txt 
+4abra34kada72bra
+ab2rakada8bra
+abraka d abra
+abr 3akadabra
+ab02raka dabra
+ab raka59dab ra
+2abr akadabra
+ abraka dabra2
+ab6rak  3adabr a
+]0;root@bondar-x521eq-s533eq: /home/andre/Programming/ArchMOC/showroot@bondar-x521eq-s533eq:/home/andre/Programming/ArchMOC/show# ew[Kxit
+exit
+
+Script done on 2022-09-24 18:35:41+03:00 [COMMAND_EXIT_CODE="0"]

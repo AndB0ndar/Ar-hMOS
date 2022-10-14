@@ -1,0 +1,12 @@
+Values in vde2-net:x:130:138::/var/run/vde2:/usr/sbin/nologin
+ vde2-net
+ x
+ 130
+ 138
+ 
+ /var/run/vde2
+ /usr/sbin/nologin
+Values in mysql:x:131:140:MySQL Server,,,:/nonexistent:/bin/false
+===Continue==
+Values in arbon:x:1001:1001:Andrey:/home/arbon:/bin/bash
+===Break==
